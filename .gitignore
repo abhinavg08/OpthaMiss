@@ -1,0 +1,23 @@
+experiments/
+
+# Local dependencies and build output
+node_modules/
+dist/
+dist-ssr/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local credentials and runtime data
+.env
+.env.*
+!.env.example
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# Operating system files
+.DS_Store
+Thumbs.db
