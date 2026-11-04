@@ -15,7 +15,7 @@ This is a screening tool, not a diagnostic device. All predictions must be confi
 
 ## Live Demo
 
-- Vercel: https://optha-miss-v1.vercel.app/
+- Vercel: https://optha-miss-v1-vkr7.vercel.app/
 
 ## Features
 
